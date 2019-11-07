@@ -3,7 +3,12 @@ guid: 0fd32f5effef7427faacd26f13c510ed
 ModelImporter:
   serializedVersion: 26
   internalIDToNameTable: []
-  externalObjects: {}
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: GooseEyes
+    second: {fileID: 2100000, guid: 6af481f80dca5304ab8edca19adb496c, type: 2}
   materials:
     importMaterials: 1
     materialName: 0
