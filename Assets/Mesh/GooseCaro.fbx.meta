@@ -3,7 +3,12 @@ guid: fdc10cb49ecfbcc4694bb7e1104ad911
 ModelImporter:
   serializedVersion: 26
   internalIDToNameTable: []
-  externalObjects: {}
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: GooseVertex
+    second: {fileID: 2100000, guid: 75d13cfde69d2fd458cc1bdf0a60fa80, type: 2}
   materials:
     importMaterials: 1
     materialName: 0
