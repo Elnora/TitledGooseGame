@@ -9,6 +9,16 @@ ModelImporter:
       assembly: UnityEngine.CoreModule
       name: GooseEyes
     second: {fileID: 2100000, guid: 6af481f80dca5304ab8edca19adb496c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: GooseFeather
+    second: {fileID: 2100000, guid: 34df3fce472d93244b8c6a442283bf33, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: GooseOrange
+    second: {fileID: 2100000, guid: 0a0cec5f5d720ca4f9b442a03363330d, type: 2}
   materials:
     importMaterials: 1
     materialName: 0
