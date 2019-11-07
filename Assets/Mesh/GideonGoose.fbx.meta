@@ -3,7 +3,22 @@ guid: 71d6727806cc8c64eb3cd2ac2f8fadb7
 ModelImporter:
   serializedVersion: 26
   internalIDToNameTable: []
-  externalObjects: {}
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: GooseEye
+    second: {fileID: 2100000, guid: 8078c98fc4d89774f9ff87f19338de13, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: GooseFeather
+    second: {fileID: 2100000, guid: 3d381e93b8e17734cbd415953dc8209c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: GooseOrange
+    second: {fileID: 2100000, guid: 732e6caac5b043a418d8292b6c1167fb, type: 2}
   materials:
     importMaterials: 1
     materialName: 0
